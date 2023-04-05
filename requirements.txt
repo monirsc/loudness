@@ -1,1 +1,2 @@
+pandas=2.0.0
 pyloudnorm=0.1.1
