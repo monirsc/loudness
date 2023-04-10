@@ -1,4 +1,4 @@
-pandas==2.0.0
+pandas==1.5.3
 pyloudnorm==0.1.1
 soundfile==0.12.1
 streamlit==1.21.0
